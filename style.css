@@ -19,10 +19,10 @@ footer {
     color: white;
 }
 a.foo:hover {
-  text-decoration-color: black;
+  text-decoration-color: green;
   color: black;
 }
 a.foo {
-  text-decoration-color: white;
+  text-decoration-color: green;
   color: white;
 }
